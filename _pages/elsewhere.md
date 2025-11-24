@@ -14,3 +14,4 @@ Prior to graduate school, I worked as an economist for the U.S. Army Corps of En
 In my free time I enjoy being as close to water as possible, reading [science fiction](https://www.jeffvandermeer.com/), and listening to music- mostly [hardcore punk](https://dischord.com/band/fugazi) and [alternative country](https://jasonmolina.com/#home-section). 
 
 ![tahoe](/images/tahoe.jpg)
+Kiva Beach, South Lake Tahoe; September 2025.
