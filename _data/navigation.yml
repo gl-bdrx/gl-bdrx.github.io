@@ -12,8 +12,8 @@ main:
     url: /research/
 
   - title: "CV"
-    #url: /cv/
-    url: /files/GBoudreaux_CV_Jun25.pdf
+    url: /cv/
+    #url: /files/GBoudreaux_CV_Jun25.pdf
 
   - #title: "Talks"
     #url: /talks/    

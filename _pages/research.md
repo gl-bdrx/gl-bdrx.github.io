@@ -18,5 +18,5 @@ redirect_from:
 * Causes and Consequences of Permit Migration in Limited Entry Fisheries (with Tsugumi Yamashita and Matt Reimer)
 
 ## Publications
-* "Measuring Beachgoer Preferences for Avoiding Harmful Algal Blooms and Bacterial Warnings." 2023. Ecological Economics, Volume 204, Part A. With Frank Lupi, Brent Sohngen, and Alan Xu. [https://doi.org/10.1016/j.ecolecon.2022.107653](https://doi.org/10.1016/j.ecolecon.2022.107653)
+* "Measuring Beachgoer Preferences for Avoiding Harmful Algal Blooms and Bacterial Warnings." 2023. Ecological Economics, vol. 204(A). With Frank Lupi, Brent Sohngen, and Alan Xu. [https://doi.org/10.1016/j.ecolecon.2022.107653](https://doi.org/10.1016/j.ecolecon.2022.107653)
 
