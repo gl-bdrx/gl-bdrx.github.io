@@ -9,17 +9,16 @@ redirect_from:
 
 Hi! I am an applied microeconomist, and a PhD candidate at UC Davis ARE. My work focuses on how individuals adapt to environmental risk, and how various constraints- for example, attention, liquidity, or technological feasibility- modify this adaptation. 
 
-At UCD, I am a co-coordinator of the [NatuRE Policy Lab](https://naturepolicy.ucdavis.edu/), an interdisciplinary lab group of students and faculty interested in environmental and natural resource economics. Before coming to Davis, I received an M.S. from Michigan State University, and a B.A. from Loyola University Chicago.
+I am a co-coordinator of the [NatuRE Policy Lab](https://naturepolicy.ucdavis.edu/), an interdisciplinary lab group of students and faculty interested in environmental and natural resource economics. Before coming to Davis, I received an M.S. from Michigan State University, and a B.A. from Loyola University Chicago.
 
-
+Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_Jun25.pdf) to view my CV.
 
 
 ## News
 * The NatuRE Policy Lab [visited](https://naturepolicy.ucdavis.edu/news/lab-trip-nimbus-fish-hatchery) Nimbus Fish Hatchery in Gold River, CA to learn about the policy and management regimes governing water use and ecosystem health in California.
 * I provided research support for the [Securing California's Flood Future](https://eps.ucdavis.edu/sites/g/files/dgvnsk2851/files/media/documents/UCD%20Flood%20Futures%20scoping%20report.pdf) panel, a joint venture between UCD and Insurance For Good to assess how California should respond to rapid changes in the US federal government’s management of natural disasters.
   * Coverage of the panel's work in the [Los Angeles Times](https://www.latimes.com/environment/story/2025-09-27/trump-california-flood-insurance)
-* In June 2025, I was awarded an Earth Scholar Award for my work on risk perception and the price elasticity of demand for flood insurance.
-* In May 2025, I was awarded the North Pacific Research Board's Graduate Research Award for my work on climate-induced migration and universal cash transfers.
+* In June 2025, my dissertation research was awarded the UC Davis Institute of the Environment's Earth Scholar Award, and the North Pacific Research Board's Graduate Research Award.
 * I presented my ongoing work on U.S. rural electrification and settlement, joint with Jeff Hadachek and Katrina Jessoe, at the 2025 AERE Summer Conference in May. 
 
 ## Research in Progess
