@@ -15,6 +15,9 @@ main:
     url: /cv/
     #url: /files/GBoudreaux_CV_Jun25.pdf
 
+  - title: "About Me"
+    url: /elsewhere/
+
   - #title: "Talks"
     #url: /talks/    
 
