@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+redirect_from:
+---
+
+
+
 ## Research in Progess
 * If Not Now, Then When: Risk Perception, Actuarial Fairness, and the Price Elasticity of Demand for Disaster Insurance
     * Funding from the [UC Davis Institute of the Environment](https://environment.ucdavis.edu/)
