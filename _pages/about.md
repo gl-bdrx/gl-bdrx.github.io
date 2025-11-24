@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an applied microeconomist, and a PhD candidate at UC Davis ARE. My work focuses on how individuals adapt to environmental risk, and how various constraints- for example, attention, liquidity, or technological feasibility- modify this adaptation. I often use tools from public economics, development economics, and economic history.
+Hi! I am an applied microeconomist, and a PhD candidate at UC Davis ARE. My work focuses on how individuals adapt to environmental risk, and how various constraints- for example, attention, liquidity, or technological feasibility- modify this adaptation. 
 
-At UCD, I am a co-coordinator of the [NatuRE Policy Lab](https://naturepolicy.ucdavis.edu/), an interdisciplinary lab group of students and faculty interested in environmental and natural resource economics. 
+At UCD, I am a co-coordinator of the [NatuRE Policy Lab](https://naturepolicy.ucdavis.edu/), an interdisciplinary lab group of students and faculty interested in environmental and natural resource economics. Before coming to Davis, I received an M.S. from Michigan State University, and a B.A. fro mLoyola University Chicago.
 
 
 
