@@ -14,6 +14,7 @@ I am a co-coordinator of the [NatuRE Policy Lab](https://naturepolicy.ucdavis.ed
 Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_Jun25.pdf) to view my CV.
 
 
+
 ## News
 * In June 2025, my dissertation research was awarded the UC Davis Institute of the Environment's Earth Scholar Award, and the North Pacific Research Board's Graduate Research Award.
 * I presented my ongoing work on U.S. rural electrification and settlement, joint with Jeff Hadachek and Katrina Jessoe, at the 2025 AERE Summer Conference in May. 
@@ -35,3 +36,4 @@ Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_Jun25.pdf) to
 * M.S. in Agricultural, Food, & Resource Economics, Michigan State University, 2021
 * B.S. in Economics, Loyola University Chicago, 2018
 
+![flood](/images/flood.jpg)
