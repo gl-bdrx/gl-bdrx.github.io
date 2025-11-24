@@ -26,8 +26,8 @@ author:
   avatar           : "gb.jpg"
   name             : "Greg Boudreaux"
   pronouns         : # example: "she/her"  
-  bio              : "Environmental and Resource Economist"
-  location         : "Davis, CA"
+  bio              : "PhD Candidate, UC Davis ARE"
+  location         : # "Davis, CA"
   employer         : "University of California, Davis"
   uri              : # URL
   email            : "glboudreaux@ucdavis.edu" 
