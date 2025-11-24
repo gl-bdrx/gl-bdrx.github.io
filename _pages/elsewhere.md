@@ -15,3 +15,6 @@ In my free time I enjoy being as close to water as possible, reading [science fi
 
 ![tahoe](/images/tahoe.jpg)
 Kiva Beach, South Lake Tahoe; September 2025.
+
+![hmmm](/images/hmmm.jpg)
+*The unconvinced professor in the back row of your seminar* (Boudreaux, 2023)
