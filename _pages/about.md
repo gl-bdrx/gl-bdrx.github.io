@@ -15,11 +15,11 @@ Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_Jun25.pdf) to
 
 
 ## News
-* The NatuRE Policy Lab [visited](https://naturepolicy.ucdavis.edu/news/lab-trip-nimbus-fish-hatchery) Nimbus Fish Hatchery in Gold River, CA to learn about the policy and management regimes governing water use and ecosystem health in California.
-* I provided research support for the [Securing California's Flood Future](https://eps.ucdavis.edu/sites/g/files/dgvnsk2851/files/media/documents/UCD%20Flood%20Futures%20scoping%20report.pdf) panel, a joint venture between UCD and Insurance For Good to assess how California should respond to rapid changes in the US federal government’s management of natural disasters.
-  * Coverage of the panel's work in the [Los Angeles Times](https://www.latimes.com/environment/story/2025-09-27/trump-california-flood-insurance)
 * In June 2025, my dissertation research was awarded the UC Davis Institute of the Environment's Earth Scholar Award, and the North Pacific Research Board's Graduate Research Award.
 * I presented my ongoing work on U.S. rural electrification and settlement, joint with Jeff Hadachek and Katrina Jessoe, at the 2025 AERE Summer Conference in May. 
+* I provided research support for the [Securing California's Flood Future](https://eps.ucdavis.edu/sites/g/files/dgvnsk2851/files/media/documents/UCD%20Flood%20Futures%20scoping%20report.pdf) panel, a joint venture between UCD and Insurance For Good to assess how California should respond to rapid changes in the US federal government’s management of natural disasters.
+  * Coverage of the panel's work in the [Los Angeles Times](https://www.latimes.com/environment/story/2025-09-27/trump-california-flood-insurance)
+* The NatuRE Policy Lab [visited](https://naturepolicy.ucdavis.edu/news/lab-trip-nimbus-fish-hatchery) Nimbus Fish Hatchery in Gold River, CA to learn about the policy and management regimes governing water use and ecosystem health in California.
 
 ## Research in Progess
 * If Not Now, Then When: Risk Perception, Actuarial Fairness, and the Price Elasticity of Demand for Disaster Insurance
