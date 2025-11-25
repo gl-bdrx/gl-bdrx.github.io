@@ -24,7 +24,7 @@ I am an environmental economist, although I often use tools from public economic
 * MS Thesis, 2021: [Economic Damages of Water Quality Warnings at Great Lakes Beaches](https://d.lib.msu.edu/etd/49816)
     * Outstanding M.S. Thesis Award, Northeastern Agricultural & Resource Economics Association (NAREA)
     * Outstanding M.S. Thesis Award, Michigan State University AFRE
-* "Impacts of Climate Change on Human Health" Published in [*Climate Change and National Security: Can Public Policy Change the World?*](https://www.aspeninstitute.org/publications/climate-change-and-national-security-how-can-public-policy-change-the-world/) (The Aspen Institute and the University of Chicago). 2019. With Dean Arnold, Matthew Burnett, Kathleen Kirsch, and Charlotte Hough. 
+* "Impacts of Climate Change on Human Health," Published in [*Climate Change and National Security: Can Public Policy Change the World?*](https://www.aspeninstitute.org/publications/climate-change-and-national-security-how-can-public-policy-change-the-world/) (The Aspen Institute and the University of Chicago). 2019. With Dean Arnold, Matthew Burnett, Kathleen Kirsch, and Charlotte Hough. 
 
 ![wind](/images/windmill.jpg)
 <sup>Old ranch house and windmill along Route 66 in northern Arizona, by Carol Highsmith (2018)</sup>
