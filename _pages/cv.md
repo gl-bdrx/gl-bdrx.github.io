@@ -45,7 +45,5 @@ Employment
 * Regional Economist, U.S. Army Corps of Engineers Chicago District, 2020-2022
 * Graduate Research Assistant, Michigan State University AFRE, 2018-2020
 
-![tahoe](/images/sac_flood.jpg)
-<sup><div style="text-align: right;">
-test test test
-</div></sup>
+![tahoe](/images/waves.jpg)
+<sup>Unfurled Waves, Flood of September 1901, by Auguste Lepère (1901)</sup>

@@ -21,3 +21,4 @@ redirect_from:
 * "Measuring Beachgoer Preferences for Avoiding Harmful Algal Blooms and Bacterial Warnings." 2023. Ecological Economics, vol. 204(A). With Frank Lupi, Brent Sohngen, and Alan Xu. [https://doi.org/10.1016/j.ecolecon.2022.107653](https://doi.org/10.1016/j.ecolecon.2022.107653)
 
 ![wind](/images/windmill.jpg)
+<sup>Old ranch house and windmill along Route 66 in northern Arizona, by Carol Highsmith (2018)</sup>

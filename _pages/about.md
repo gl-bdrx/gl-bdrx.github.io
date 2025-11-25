@@ -37,3 +37,4 @@ Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_Jun25.pdf) to
 * B.S. in Economics, Loyola University Chicago, 2018
 
 ![perm](/images/perm.jpg)
+<sup>Thawing permafrost in Herschel Island, by Boris Radosavljevic (2013)</sup>
