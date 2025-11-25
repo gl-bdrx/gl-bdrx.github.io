@@ -36,4 +36,4 @@ Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_Jun25.pdf) to
 * M.S. in Agricultural, Food, & Resource Economics, Michigan State University, 2021
 * B.S. in Economics, Loyola University Chicago, 2018
 
-![flood](/images/flood.jpg)
+![perm](/images/perm.jpg)

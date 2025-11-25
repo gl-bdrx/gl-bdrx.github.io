@@ -44,3 +44,5 @@ Employment
 * Teaching Assistant, ARE 100B (Intermediate Microeconomics), 2025
 * Regional Economist, U.S. Army Corps of Engineers Chicago District, 2020-2022
 * Graduate Research Assistant, Michigan State University AFRE, 2018-2020
+
+![tahoe](/images/sac_flood.jpg)

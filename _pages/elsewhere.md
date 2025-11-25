@@ -11,7 +11,7 @@ I was born and raised in Kansas City, Missouri, where you can get the best barbe
 
 The upper Midwest and Great Lakes region is my adopted home. Prior to graduate school, I worked as an economist for the U.S. Army Corps of Engineers in Chicago, which was a master class in both infrastructure policy and political economy.
 
-In my free time I enjoy being as close to water as possible, reading [science fiction](https://www.jeffvandermeer.com/), and listening to music- mostly [hardcore punk](https://dischord.com/band/fugazi) and [alternative country](https://jasonmolina.com/#home-section). 
+In my free time I enjoy being as close to water as possible ([preferably with my wife, Sara](/images/g&s.jpg)), reading [science fiction](https://www.jeffvandermeer.com/), and listening to music- mostly [hardcore punk](https://dischord.com/band/fugazi) and [alternative country](https://jasonmolina.com/#home-section). 
 
 ![tahoe](/images/tahoe.jpg)
 Kiva Beach, South Lake Tahoe; September 2025.
