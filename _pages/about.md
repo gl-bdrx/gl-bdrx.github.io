@@ -25,7 +25,7 @@ Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_Jun25.pdf) to
 ## Research in Progess
 * If Not Now, Then When: Risk Perception, Actuarial Fairness, and the Price Elasticity of Demand for Disaster Insurance
     * Funding from the [UC Davis Institute of the Environment](https://environment.ucdavis.edu/)
-* Environmental Migration and Unconditional Cash Transfers: Evidence from the Alaska Permanent Fund Dividend (with Matt Reimer)
+* Climate Migration and Unconditional Cash Transfers: Evidence from the Alaska Permanent Fund Dividend (with Matt Reimer)
     * Funding from the [North Pacific Research Board](https://nprb.org/)
 * Resource Extraction, Electrification, and Rural Development in the American West (with Jeff Hadachek and Katrina Jessoe)
     * Funding from the [Giannini Foundation of Agricultural Economics](https://giannini.ucop.edu/)
