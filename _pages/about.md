@@ -9,9 +9,9 @@ redirect_from:
 
 Hi! I am an applied microeconomist, and a PhD candidate at UC Davis ARE. My work focuses on how individuals adapt to environmental risk, and how various constraints- for example, attention, liquidity, or technological feasibility- modify this adaptation. 
 
-I am a co-coordinator of the [NatuRE Policy Lab](https://naturepolicy.ucdavis.edu/), an interdisciplinary lab group of students and faculty interested in environmental and natural resource economics. Before coming to Davis, I received an M.S. from Michigan State University, and a B.A. from Loyola University Chicago.
+I am a co-coordinator of the [NatuRE Policy Lab](https://naturepolicy.ucdavis.edu/), an interdisciplinary lab group of students and faculty interested in environmental and natural resource economics. Before coming to Davis, I received an M.S. from Michigan State University, and a B.A. from Loyola University.
 
-Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_Jun25.pdf) to view my CV.
+Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_March26.pdf) to view my CV.
 
 
 
@@ -23,13 +23,13 @@ Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_Jun25.pdf) to
 * The NatuRE Policy Lab [visited](https://naturepolicy.ucdavis.edu/news/lab-trip-nimbus-fish-hatchery) Nimbus Fish Hatchery in Gold River, CA to learn about the policy and management regimes governing water use and ecosystem health in California.
 
 ## Research in Progess
-* If Not Now, Then When: Risk Perception, Actuarial Fairness, and the Price Elasticity of Demand for Disaster Insurance
-    * Funding from the [UC Davis Institute of the Environment](https://environment.ucdavis.edu/)
 * Climate Migration and Unconditional Cash Transfers: Evidence from the Alaska Permanent Fund Dividend (with Matt Reimer)
     * Funding from the [North Pacific Research Board](https://nprb.org/)
-* Resource Extraction, Electrification, and Rural Development in the American West (with Jeff Hadachek and Katrina Jessoe)
+* If Not Now, Then When: Risk Perception, Actuarial Fairness, and the Price Elasticity of Demand for Disaster Insurance
+    * Funding from the [UC Davis Institute of the Environment](https://environment.ucdavis.edu/)
+* Resource Extraction, Electrification, and Rural Development in the American West (with Katrina Jessoe and Jeff Hadachek)
     * Funding from the [Giannini Foundation of Agricultural Economics](https://giannini.ucop.edu/)
-* Causes and Consequences of Permit Migration in Limited Entry Fisheries (with Tsugumi Yamashita and Matt Reimer)
+* Permit Migration and the Changing Geography of Fishing-Dependent Communities (with Tsugumi Yamashita, Matt Reimer, and Jim Sanchirico)
 
 ## Education
 * Ph.D in Agricultural & Resource Economics, UC Davis, 2027 (expected)
