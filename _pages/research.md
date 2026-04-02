@@ -9,7 +9,7 @@ redirect_from:
 I am an environmental economist, although I often use tools from public economics, development economics, and economic history to examine human responses to environmental change. I enjoy thinking about problems involving heterogenous treatment effects and differential exposure to common shocks. 
 
 ## Research in Progess
-* Climate Migration and Unconditional Cash Transfers: Evidence from the Alaska Permanent Fund Dividend (with Matt Reimer)
+* Climate Migration and Liquidity Constraints: Evidence from the Alaska Permanent Fund Dividend (with Matt Reimer)
     * Funding from the [North Pacific Research Board](https://nprb.org/)
 * If Not Now, Then When: Risk Perception, Actuarial Fairness, and the Price Elasticity of Demand for Disaster Insurance
     * Funding from the [UC Davis Institute of the Environment](https://environment.ucdavis.edu/)

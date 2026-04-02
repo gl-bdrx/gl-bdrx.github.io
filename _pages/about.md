@@ -14,6 +14,14 @@ I am a co-coordinator of the [NatuRE Policy Lab](https://naturepolicy.ucdavis.ed
 Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_March26.pdf) to view my CV.
 
 
+## Research in Progess
+* Climate Migration and Liquidity Constraints: Evidence from the Alaska Permanent Fund Dividend (with Matt Reimer)
+    * Funding from the [North Pacific Research Board](https://nprb.org/)
+* If Not Now, Then When: Risk Perception, Actuarial Fairness, and the Price Elasticity of Demand for Disaster Insurance
+    * Funding from the [UC Davis Institute of the Environment](https://environment.ucdavis.edu/)
+* Resource Extraction, Electrification, and Rural Development in the American West (with Katrina Jessoe and Jeff Hadachek)
+    * Funding from the [Giannini Foundation of Agricultural Economics](https://giannini.ucop.edu/)
+* Permit Migration and the Changing Geography of Fishing-Dependent Communities (with Tsugumi Yamashita, Matt Reimer, and Jim Sanchirico)
 
 ## News
 * In June 2025, my dissertation research was awarded the UC Davis Institute of the Environment's Earth Scholar Award, and the North Pacific Research Board's Graduate Research Award.
@@ -22,14 +30,6 @@ Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_March26.pdf) 
   * Coverage of the panel's work in the [Los Angeles Times](https://www.latimes.com/environment/story/2025-09-27/trump-california-flood-insurance)
 * The NatuRE Policy Lab [visited](https://naturepolicy.ucdavis.edu/news/lab-trip-nimbus-fish-hatchery) Nimbus Fish Hatchery in Gold River, CA to learn about the policy and management regimes governing water use and ecosystem health in California.
 
-## Research in Progess
-* Climate Migration and Unconditional Cash Transfers: Evidence from the Alaska Permanent Fund Dividend (with Matt Reimer)
-    * Funding from the [North Pacific Research Board](https://nprb.org/)
-* If Not Now, Then When: Risk Perception, Actuarial Fairness, and the Price Elasticity of Demand for Disaster Insurance
-    * Funding from the [UC Davis Institute of the Environment](https://environment.ucdavis.edu/)
-* Resource Extraction, Electrification, and Rural Development in the American West (with Katrina Jessoe and Jeff Hadachek)
-    * Funding from the [Giannini Foundation of Agricultural Economics](https://giannini.ucop.edu/)
-* Permit Migration and the Changing Geography of Fishing-Dependent Communities (with Tsugumi Yamashita, Matt Reimer, and Jim Sanchirico)
 
 ## Education
 * Ph.D in Agricultural & Resource Economics, UC Davis, 2027 (expected)

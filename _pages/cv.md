@@ -32,6 +32,8 @@ Awards & Fellowships
 
 Conferences & Talks
 ======
+* AAEA Annual Meeting (presenter & poster), 2026 
+* WEAI Annual Conference (presenter), 2026
 * AERE Summer Conference (presenter), 2025
 * Giannini Foundation Student Conference (presenter), 2025                                                      
 * AAEA Annual Meeting (presenter & poster), 2021                                                      
