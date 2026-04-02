@@ -11,7 +11,7 @@ Hi! I am an applied microeconomist, and a PhD candidate at UC Davis ARE. My work
 
 I am a co-coordinator of the [NatuRE Policy Lab](https://naturepolicy.ucdavis.edu/), an interdisciplinary lab group of students and faculty interested in environmental and natural resource economics. Before coming to Davis, I received an M.S. from Michigan State University, and a B.A. from Loyola University.
 
-Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_March26.pdf) to view my CV.
+Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_Apr26.pdf) to view my CV.
 
 
 ## Research in Progess
