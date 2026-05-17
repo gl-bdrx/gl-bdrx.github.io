@@ -17,20 +17,23 @@ Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_Apr26.pdf) to
 
 
 ## Research in Progess
-* **Climate Migration and Liquidity Constraints: Evidence from the Alaska Permanent Fund Dividend** (with Matt Reimer) <br>
+* **Climate Migration and Liquidity Constraints: Evidence from the Alaska Permanent Fund Dividend** <br>
+*with Matt Reimer* <br>
     <details>
     <summary>Abstract</summary>
     test test
     </details>
-    <small>**Conferences**: AAEA 2026 (scheduled), AERE@WEAI 2026 (scheduled), Giannini Student Conference 2026<\small> <br>
-    <small>**Funding**: [North Pacific Research Board](https://nprb.org/)<\small> <br>
-* **Resource Extraction, Electrification, and Rural Development in the American West** (with Katrina Jessoe and Jeff Hadachek) <br>
-    <small>**Conferences**: AAEA 2026 (scheduled), AERE 2025 <\small> <br>
-    <small>**Funding**: [Giannini Foundation of Agricultural Economics](https://giannini.ucop.edu/)<\small> <br>
+    <small>**Conferences**: AAEA 2026 (scheduled), AERE@WEAI 2026 (scheduled), Giannini Student Conference 2026</small> <br>
+    <small>**Funding**: [North Pacific Research Board](https://nprb.org/)</small> <br>
+* **Resource Extraction, Electrification, and Rural Development in the American West** <br>
+  *with Katrina Jessoe and Jeff Hadachek* <br>
+    <small>**Conferences**: AAEA 2026 (scheduled), AERE 2025 </small> <br>
+    <small>**Funding**: [Giannini Foundation of Agricultural Economics](https://giannini.ucop.edu/)</small> <br>
 * **If Not Now, Then When: Risk Perception, Actuarial Fairness, and the Price Elasticity of Demand for Disaster Insurance** <br>
-    <small>**Conferences**: Giannini Student Conference 2025<\small> <br>
+    <small>**Conferences**: Giannini Student Conference 2025</small> <br>
     <small>**Funding**: [UC Davis Institute of the Environment](https://environment.ucdavis.edu/)<\small> <br>
-* **Permit Migration and the Changing Geography of Fishing-Dependent Communities** (with Tsugumi Yamashita, Matt Reimer, and Jim Sanchirico)
+* **Permit Migration and the Changing Geography of Fishing-Dependent Communities** 
+  *with Tsugumi Yamashita, Matt Reimer, and Jim Sanchirico* 
 
 ## News
 * In July 2026, I will attend the Agricultural and Applied Economics Association Annual Meeting in Kansas City, where I will be presenting "Climate Migration and Liquidity Constraints" and "Resource Extraction, Electrification, and Rural Development in the American West."
