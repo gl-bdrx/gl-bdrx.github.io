@@ -6,19 +6,22 @@ author_profile: true
 redirect_from:
 ---
 
-I am an environmental economist, although I often use tools from public economics, development economics, and economic history to examine human responses to environmental change. I enjoy thinking about problems involving heterogenous treatment effects and differential exposure to common shocks. 
+Please see my research statement, [here](). 
+
+## Peer-Reviewed Publications
+* "Measuring Beachgoer Preferences for Avoiding Harmful Algal Blooms and Bacterial Warnings." 2023. Ecological Economics, vol. 204(A). With Frank Lupi, Brent Sohngen, and Alan Xu. [https://doi.org/10.1016/j.ecolecon.2022.107653](https://doi.org/10.1016/j.ecolecon.2022.107653)
 
 ## Research in Progess
 * Climate Migration and Liquidity Constraints: Evidence from the Alaska Permanent Fund Dividend (with Matt Reimer)
-    * Funding from the [North Pacific Research Board](https://nprb.org/)
-* If Not Now, Then When: Risk Perception, Actuarial Fairness, and the Price Elasticity of Demand for Disaster Insurance
-    * Funding from the [UC Davis Institute of the Environment](https://environment.ucdavis.edu/)
+    <small>**Conferences**: AAEA 2026 (scheduled), AERE@WEAI 2026 (scheduled), Giannini Student Conference 2026
+    <small>**Funding**: [North Pacific Research Board](https://nprb.org/)<\small>
 * Resource Extraction, Electrification, and Rural Development in the American West (with Katrina Jessoe and Jeff Hadachek)
-    * Funding from the [Giannini Foundation of Agricultural Economics](https://giannini.ucop.edu/)
+    <small>**Conferences**: AAEA 2026 (scheduled), AERE 2025 
+    <small>**Funding**: [Giannini Foundation of Agricultural Economics](https://giannini.ucop.edu/)<\small>
+* If Not Now, Then When: Risk Perception, Actuarial Fairness, and the Price Elasticity of Demand for Disaster Insurance
+    <small>**Conferences**: Giannini Student Conference 2025
+    <small>**Funding**: [UC Davis Institute of the Environment](https://environment.ucdavis.edu/)<\small>
 * Permit Migration and the Changing Geography of Fishing-Dependent Communities (with Tsugumi Yamashita, Matt Reimer, and Jim Sanchirico)
-
-## Publications
-* "Measuring Beachgoer Preferences for Avoiding Harmful Algal Blooms and Bacterial Warnings." 2023. Ecological Economics, vol. 204(A). With Frank Lupi, Brent Sohngen, and Alan Xu. [https://doi.org/10.1016/j.ecolecon.2022.107653](https://doi.org/10.1016/j.ecolecon.2022.107653)
 
 ## Other writing
 * MS Thesis, 2021: [Economic Damages of Water Quality Warnings at Great Lakes Beaches](https://d.lib.msu.edu/etd/49816)
