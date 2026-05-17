@@ -22,13 +22,13 @@ Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_Apr26.pdf) to
     <summary>Abstract</summary>
     test test
     </details>
-    <small>**Conferences**: AAEA 2026 (scheduled), AERE@WEAI 2026 (scheduled), Giannini Student Conference 2026
+    <small>**Conferences**: AAEA 2026 (scheduled), AERE@WEAI 2026 (scheduled), Giannini Student Conference 2026<\small>
     <small>**Funding**: [North Pacific Research Board](https://nprb.org/)<\small>
 * Resource Extraction, Electrification, and Rural Development in the American West (with Katrina Jessoe and Jeff Hadachek)
-    <small>**Conferences**: AAEA 2026 (scheduled), AERE 2025 
+    <small>**Conferences**: AAEA 2026 (scheduled), AERE 2025 <\small>
     <small>**Funding**: [Giannini Foundation of Agricultural Economics](https://giannini.ucop.edu/)<\small>
 * If Not Now, Then When: Risk Perception, Actuarial Fairness, and the Price Elasticity of Demand for Disaster Insurance
-    <small>**Conferences**: Giannini Student Conference 2025
+    <small>**Conferences**: Giannini Student Conference 2025<\small>
     <small>**Funding**: [UC Davis Institute of the Environment](https://environment.ucdavis.edu/)<\small>
 * Permit Migration and the Changing Geography of Fishing-Dependent Communities (with Tsugumi Yamashita, Matt Reimer, and Jim Sanchirico)
 
