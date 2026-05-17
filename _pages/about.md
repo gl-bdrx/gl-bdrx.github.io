@@ -15,7 +15,7 @@ Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_Apr26.pdf) to
 
 
 ## Research in Progess
-* **Climate Migration and Liquidity Constraints: Evidence from the Alaska Permanent Fund Dividend** <br>
+* **Climate Migration and Liquidity Constraints: Evidence from the Alaska Permanent Fund Dividend**
 *with Matt Reimer* <br>
     <small>**Conferences**: AAEA 2026 (scheduled), AERE@WEAI 2026 (scheduled), Giannini Student Conference 2026</small> <br>
     <small>**Funding**: [North Pacific Research Board](https://nprb.org/)</small> <br>
