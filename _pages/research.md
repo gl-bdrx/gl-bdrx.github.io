@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
 ---
 
-Why does the same environmental risk or shock often induce vastly different responses across individuals or households? My research uses applied theory to generate testable hypotheses about these heterogenous effects, and harnesses quasi-experimental methods to test these hypotheses. In doing so, I hope to improve our understanding of whether adaptation is working, and for whom. 
+Why does the same environmental shock often induce vastly different responses across individuals or households? My research uses applied theory to generate testable hypotheses about these heterogenous effects, and harnesses quasi-experimental methods to test these hypotheses. In doing so, I hope to improve our understanding of whether adaptation is working, and for whom. 
 
 ## Peer-Reviewed Publications
 * "Measuring Beachgoer Preferences for Avoiding Harmful Algal Blooms and Bacterial Warnings." 2023. Ecological Economics, vol. 204(A). With Frank Lupi, Brent Sohngen, and Alan Xu. [https://doi.org/10.1016/j.ecolecon.2022.107653](https://doi.org/10.1016/j.ecolecon.2022.107653)
@@ -34,4 +34,4 @@ Why does the same environmental risk or shock often induce vastly different resp
 
 ![wind](/images/windmill.jpg)
 <sup>Old ranch house and windmill along Route 66 in northern Arizona, by Carol Highsmith (2018)</sup> <br>
-<small>In joint work, I examine how reliance on windmills for groundwater pumping prior to the electrification of the American West fundamentally governed the spatial distribution of electric well adoption during the mid-20th century. </small>
+<small>In joint work, I examine how reliance on windmills (like the one above) for groundwater pumping prior to the electrification of the American West fundamentally governed the spatial distribution of electric well adoption during the mid-20th century. </small>

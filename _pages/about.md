@@ -11,7 +11,7 @@ Hi! I am an applied microeconomist, and a PhD candidate at UC Davis ARE. My work
 
 I am a co-coordinator of the UC Davis [NatuRE Policy Lab](https://naturepolicy.ucdavis.edu/), an interdisciplinary lab group of students and faculty interested in environmental and natural resource economics. Before coming to Davis, I received an M.S. in Agricultural, Food, and Resource Economics from Michigan State University, and a B.A. in Economics from Loyola University Chicago.
 
-Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_Apr26.pdf) to view my CV.
+Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_May26.pdf) to view my CV.
 
 
 ## Research in Progess
@@ -41,4 +41,4 @@ Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_Apr26.pdf) to
 
 ![perm](/images/perm.jpg)
 <sup>Thawing permafrost in Herschel Island, by Boris Radosavljevic (2013)</sup> <br>
-<small>In my job market paper, I examine how environmental degradation affects individual migration choices, and then use the world's longest-running universal cash transfer to show how liquidity constraints impede this adaptive migration. </small>
+<small>In my job market paper, I examine how environmental degradation affects individual migration choices, and then use the world's longest-running universal cash transfer (The Alaska Permanent Fund Dividend) to show how liquidity constraints impede this adaptive migration. </small>
