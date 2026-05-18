@@ -23,7 +23,7 @@ Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_Apr26.pdf) to
   *with Katrina Jessoe and Jeff Hadachek* <br>
     <small>**Conferences**: AAEA 2026 (scheduled), AERE 2025 </small> <br>
     <small>**Funding**: [Giannini Foundation of Agricultural Economics](https://giannini.ucop.edu/)</small> <br>
-* **If Not Now, Then When: Risk Perception, Actuarial Fairness, and the Price Elasticity of Demand for Disaster Insurance** <br>
+* **The Price of Fear: Salience and Price Sensitivity in Disaster Insurance** <br>
     <small>**Conferences**: Giannini Student Conference 2025</small> <br>
     <small>**Funding**: [UC Davis Institute of the Environment](https://environment.ucdavis.edu/)</small> <br>
 * **Permit Migration and the Changing Geography of Fishing-Dependent Communities** 
@@ -40,4 +40,5 @@ Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_Apr26.pdf) to
 * B.S. in Economics, Loyola University Chicago, 2018
 
 ![perm](/images/perm.jpg)
-<sup>Thawing permafrost in Herschel Island, by Boris Radosavljevic (2013)</sup>
+<sup>Thawing permafrost in Herschel Island, by Boris Radosavljevic (2013)</sup> <br>
+<small>In my job market paper, I examine how environmental degradation affects individual migration choices, and then use the world's longest-running universal cash transfer to show how liquidity constraints impede this adaptive migration. </small>
