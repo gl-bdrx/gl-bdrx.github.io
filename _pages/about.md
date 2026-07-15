@@ -7,20 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an applied microeconomist, and a PhD candidate at UC Davis ARE. My work focuses on how individuals adapt to environmental risk, and how various constraints- for example, liquidity, productivity, or attention- modify this adaptation. 
+Hi! I am an applied microeconomist, and a PhD candidate UC Davis. My work examines how individuals and communities adapt to environmental risk and technological change, with a particular focus on rural areas dependent on agriculture and natural resources. In my job market paper, I study how environmental risk shapes rural-urban migration decisions, and show how limited access to credit can severely constrain rural communities' ability to adapt to negative shocks. 
 
-I am a co-coordinator of the UC Davis [NatuRE Policy Lab](https://naturepolicy.ucdavis.edu/), an interdisciplinary lab group of students and faculty interested in environmental and natural resource economics. Before coming to Davis, I received an M.S. in Agricultural, Food, and Resource Economics from Michigan State University, and a B.A. in Economics from Loyola University Chicago.
+I also have work on the role of electrification in US rural development, and price sensitivity in disaster insurance markets. Before coming to Davis, I received an M.S. in Agricultural Economics from Michigan State University, and a B.A. in Economics from Loyola University Chicago.
 
-Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_May26.pdf) to view my CV.
+**I am on the job market in the 2026-2027 aacademic year.** Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_Jul26.pdf) to view my CV.
 
 
 ## Research in Progess
-* **Climate Migration and Liquidity Constraints: Evidence from the Alaska Permanent Fund Dividend**
+* **Climate Migration and Liquidity Constraints: Evidence from the Alaska Permanent Fund Dividend (Job Market Paper)**
 *with Matt Reimer* <br>
     <small>**Conferences**: AAEA 2026 (scheduled), AERE@WEAI 2026 (scheduled), Giannini Student Conference 2026</small> <br>
     <small>**Funding**: [North Pacific Research Board](https://nprb.org/)</small> <br>
 * **Resource Extraction, Electrification, and Rural Development in the American West** <br>
-  *with Katrina Jessoe and Jeff Hadachek* <br>
+  *with Katrina Jessoe and Jeff Hadachek (UW-Madison)* <br>
     <small>**Conferences**: AAEA 2026 (scheduled), AERE 2025 </small> <br>
     <small>**Funding**: [Giannini Foundation of Agricultural Economics](https://giannini.ucop.edu/)</small> <br>
 * **The Price of Fear: Salience and Price Sensitivity in Disaster Insurance** <br>
@@ -28,10 +28,6 @@ Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_May26.pdf) to
     <small>**Funding**: [UC Davis Institute of the Environment](https://environment.ucdavis.edu/)</small> <br>
 * **Permit Migration and the Changing Geography of Fishing-Dependent Communities** 
   *with Tsugumi Yamashita, Matt Reimer, and Jim Sanchirico* 
-
-## News
-* In July 2026, I will attend the Agricultural and Applied Economics Association Annual Meeting in Kansas City, where I will be presenting "Climate Migration and Liquidity Constraints" and "Resource Extraction, Electrification, and Rural Development in the American West."
-* In June 2026, I will attend the AERE@WEAI meeting in Denver, where I will be presenting "Climate Migration and Liquidity Constraints."
 
 
 ## Education
@@ -41,4 +37,4 @@ Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_May26.pdf) to
 
 ![perm](/images/perm.jpg)
 <sup>Thawing permafrost in Herschel Island, by Boris Radosavljevic (2013)</sup> <br>
-<small>In my job market paper, I examine how environmental degradation affects individual migration choices, and then use the world's longest-running universal cash transfer (The Alaska Permanent Fund Dividend) to show how liquidity constraints impede this adaptive migration. </small>
+<small>In my job market paper, I examine how environmental degradation in resource-dependent communities affects rural-urban migration choices, and then use variation in the world's longest-running universal cash transfer (The Alaska Permanent Fund Dividend) to show how liquidity constraints impede this adaptive migration. </small>
