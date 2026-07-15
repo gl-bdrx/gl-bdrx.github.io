@@ -11,17 +11,17 @@ Hi! I am an applied microeconomist, and a PhD candidate at UC Davis. My work exa
 
 I also have work on the role of electrification in US rural development, and price sensitivity in disaster insurance markets. Before coming to Davis, I received an M.S. in Agricultural Economics from Michigan State University, and a B.A. in Economics from Loyola University Chicago.
 
-**I am on the job market in the 2026-2027 aacademic year.** Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_Jul26.pdf) to view my CV.
+**I am on the job market in the 2026-2027 academic year.** Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_Jul26.pdf) to view my CV.
 
 
 ## Research in Progess
 * **Climate Migration and Liquidity Constraints: Evidence from the Alaska Permanent Fund Dividend (Job Market Paper)**
 *with Matt Reimer* <br>
-    <small>**Conferences**: AAEA 2026 (scheduled), AERE@WEAI 2026 (scheduled), Giannini Student Conference 2026</small> <br>
+    <small>**Conferences**: AAEA 2026, AERE@WEAI 2026, Giannini Student Conference 2026</small> <br>
     <small>**Funding**: [North Pacific Research Board](https://nprb.org/)</small> <br>
 * **Resource Extraction, Electrification, and Rural Development in the American West** <br>
   *with Katrina Jessoe and Jeff Hadachek (UW-Madison)* <br>
-    <small>**Conferences**: AAEA 2026 (scheduled), AERE 2025 </small> <br>
+    <small>**Conferences**: AAEA 2026, AERE 2025 </small> <br>
     <small>**Funding**: [Giannini Foundation of Agricultural Economics](https://giannini.ucop.edu/)</small> <br>
 * **The Price of Fear: Salience and Price Sensitivity in Disaster Insurance** <br>
     <small>**Conferences**: Giannini Student Conference 2025</small> <br>
