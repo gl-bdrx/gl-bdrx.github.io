@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an applied microeconomist, and a PhD candidate at UC Davis. My work examines how  communities adapt to environmental risk and technological change, with a particular focus on rural areas dependent on agriculture and natural resources. In my job market paper, I study how environmental risk shapes rural-urban migration decisions, and show how limited access to credit can severely constrain rural communities' ability to adapt to negative shocks. 
+Hi! I am an applied microeconomist, and a PhD candidate at UC Davis. My work examines how  communities adapt to environmental risk and technological change, with a particular focus on rural areas dependent on agriculture and natural resources. 
 
-I also have work on the role of electrification in US rural development, and price sensitivity in disaster insurance markets. Before coming to Davis, I received an M.S. in Agricultural Economics from Michigan State University, and a B.A. in Economics from Loyola University Chicago.
+In my job market paper, I study how environmental risk shapes rural-urban migration decisions, and show how limited access to credit can severely constrain rural communities' ability to adapt to negative shocks. I also have work on the role of electrification in US rural development, price sensitivity in disaster insurance markets, and non-market valuation of water quality. 
+
+Before coming to Davis, I worked as a Regional Economist for the U.S. Army Corps of Engineers, received an M.S. in Agricultural Economics from Michigan State University, and a B.A. in Economics from Loyola University Chicago.
 
 **I am on the job market in the 2026-2027 academic year.** Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_Jul26.pdf) to view my CV.
 
