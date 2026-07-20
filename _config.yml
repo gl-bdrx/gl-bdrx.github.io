@@ -23,7 +23,7 @@ repository               : "gl-bdrx/gl-bdrx.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "gb.jpg"
+  avatar           : "gb1.jpg"
   name             : "Greg Boudreaux"
   pronouns         : # example: "she/her"  
   bio              : "Resource, Rural, and Agricultural Economics."
