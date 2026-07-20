@@ -22,7 +22,7 @@ Much of my work is concerned with the causal estimation of heterogeneous treatme
   *with Katrina Jessoe and Jeff Hadachek* <br>
     <small>**Conferences**: AAEA 2026, AERE 2025 </small> <br>
     <small>**Funding**: [Giannini Foundation of Agricultural Economics](https://giannini.ucop.edu/)</small> <br>
-* **The Price of Fear: Salience and Price Sensitivity in Disaster Insurance** <br>
+* **The Price of Fear: Salience and Price Sensitivity in Natural Disaster Insurance** <br>
     <small>**Conferences**: Giannini Student Conference 2025</small> <br>
     <small>**Funding**: [UC Davis Institute of the Environment](https://environment.ucdavis.edu/)</small> <br>
 * **Permit Migration and the Changing Geography of Fishing-Dependent Communities** 

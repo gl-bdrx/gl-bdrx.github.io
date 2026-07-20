@@ -25,7 +25,7 @@ Before coming to Davis, I worked as a Regional Economist for the U.S. Army Corps
   *with Katrina Jessoe and Jeff Hadachek (UW-Madison)* <br>
     <small>**Conferences**: AAEA 2026, AERE 2025 </small> <br>
     <small>**Funding**: [Giannini Foundation of Agricultural Economics](https://giannini.ucop.edu/)</small> <br>
-* **The Price of Fear: Salience and Price Sensitivity in Disaster Insurance** <br>
+* **The Price of Fear: Salience and Price Sensitivity in Natural Disaster Insurance** <br>
     <small>**Conferences**: Giannini Student Conference 2025</small> <br>
     <small>**Funding**: [UC Davis Institute of the Environment](https://environment.ucdavis.edu/)</small> <br>
 * **Permit Migration and the Changing Geography of Fishing-Dependent Communities** 
