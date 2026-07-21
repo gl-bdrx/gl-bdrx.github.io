@@ -32,12 +32,6 @@ Before coming to Davis, I worked as a Regional Economist for the U.S. Army Corps
 * **Permit Migration and the Changing Geography of Fishing-Dependent Communities** 
   *with Tsugumi Yamashita, Matt Reimer, and Jim Sanchirico* 
 
-
-## Education
-* Ph.D in Agricultural & Resource Economics, UC Davis, 2027 (expected)
-* M.S. in Agricultural, Food, & Resource Economics, Michigan State University, 2021
-* B.S. in Economics, Loyola University Chicago, 2018
-
 ![perm](/images/perm.jpg)
 <sup>Thawing permafrost in Herschel Island, by Boris Radosavljevic (2013)</sup> <br>
 <small>In my job market paper, I examine how environmental degradation in resource-dependent communities affects rural-urban migration choices, and then use variation in the world's longest-running universal cash transfer (The Alaska Permanent Fund Dividend) to show how liquidity constraints impede this adaptive migration. </small>
