@@ -6,9 +6,7 @@ author_profile: true
 redirect_from:
 ---
 
-My research is focused on how rural communities interact with natural resources, and has two broad themes. The first examines how individuals in resource-dependent communities (formally or informally) insure themselves against environmental risk. The second examines how technological change helps individuals more efficiently use natural resource endowments to improve their lives. 
-
-Much of my work is concerned with the causal estimation of heterogeneous treatment effects, to explain why certain people or communities are more resilient to changes in their economic environment than others. I use applied theory to generate testable hypotheses about these heterogenous effects, and harness quasi-experimental methods to test these hypotheses. 
+My research is focused on how rural communities interact with natural resources, and has two broad themes. The first examines how individuals in resource-dependent communities (formally or informally) insure themselves against environmental risk. The second examines how infrastructure investment helps individuals more efficiently use natural resource endowments to improve their lives. 
 
 ## Peer-Reviewed Publications
 * "Measuring Beachgoer Preferences for Avoiding Harmful Algal Blooms and Bacterial Warnings." 2023. Ecological Economics, vol. 204(A). With Frank Lupi, Brent Sohngen, and Alan Xu. [https://doi.org/10.1016/j.ecolecon.2022.107653](https://doi.org/10.1016/j.ecolecon.2022.107653)

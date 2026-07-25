@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an applied microeconomist, and a PhD candidate at UC Davis. My work examines how  communities adapt to environmental risk and technological change, with a particular focus on rural areas dependent on agriculture and natural resources. 
+Hi! I am an applied microeconomist, and a PhD candidate at UC Davis. My work examines how  communities adapt to environmental risk and infrastructure investment, with a particular focus on rural areas dependent on agriculture and natural resources. 
 
 In my job market paper, I study how environmental risk shapes rural-urban migration decisions, and show how limited access to credit can severely constrain rural communities' ability to adapt to negative shocks. I also have work on the role of electrification in US rural development, price sensitivity in disaster insurance markets, and non-market valuation of water quality. 
 
