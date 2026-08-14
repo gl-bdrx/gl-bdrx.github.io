@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an applied microeconomist, and a PhD candidate at UC Davis. My research has two broad focuses. The first examines how individuals in rural, resource-dependent communities (formally or informally) insure themselves against environmental risk. The second examines how infrastructure investment helps individuals more efficiently use natural resource endowments to improve their lives. 
+Hi! I am an applied microeconomist, and a PhD candidate at UC Davis. My research has two broad focuses. The first examines how individuals in rural, resource-dependent communities insure themselves against environmental risk. The second examines how infrastructure investment helps individuals more efficiently use natural resource endowments to improve their lives. 
 
 In my job market paper, I study how environmental risk shapes rural-urban migration decisions, and show how limited access to credit can severely constrain rural communities' ability to adapt to negative shocks. I also have work on the role of electrification in US rural development, price sensitivity in disaster insurance markets, and non-market valuation of water quality. 
 
