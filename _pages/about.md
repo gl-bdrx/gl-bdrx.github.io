@@ -11,7 +11,7 @@ Hi! I am an applied microeconomist, and a PhD candidate at UC Davis. My research
 
 In my job market paper, I study how environmental risk shapes rural-urban migration decisions, and show how financial constraints can severely restrict rural communities' ability to adapt to negative shocks. I also have work on the role of electrification in US rural development, price sensitivity in disaster insurance markets, and non-market valuation of water quality. 
 
-**I am on the job market in the 2026-2027 academic year.** Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_Jul26.pdf) to view my CV.
+**I am on the job market in the 2026-2027 academic year.** Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_Aug26.pdf) to view my CV.
 
 
 ## Research in Progess
