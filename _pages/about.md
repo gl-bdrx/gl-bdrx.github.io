@@ -23,7 +23,7 @@ In my job market paper, I study how environmental shocks shape rural-urban migra
   </details>
     <small>**Conferences**: AAEA 2026, AERE@WEAI 2026, Giannini Student Conference 2026</small> <br>
     <small>**Funding**: [North Pacific Research Board](https://nprb.org/)</small> <br>
-* **roundwater, Electrification, and Rural Development** <br>
+* **Groundwater, Electrification, and Rural Development** <br>
   *with Katrina Jessoe and Jeff Hadachek (UW-Madison)* <br>
     <small>**Conferences**: AAEA 2026, AERE 2025 </small> <br>
     <small>**Funding**: [Giannini Foundation of Agricultural Economics](https://giannini.ucop.edu/)</small> <br>
