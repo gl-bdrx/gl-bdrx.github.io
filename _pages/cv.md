@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_Aug26.pdf) to view my CV.
+Please click [here](https://gl-bdrx.github.io//files/Boudreaux_CV_Oct26.pdf) to view my CV.
 
 
 ![tahoe](/images/waves.jpg)

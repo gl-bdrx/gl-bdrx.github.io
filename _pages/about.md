@@ -7,20 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an applied microeconomist, and a PhD candidate at UC Davis. My research has two broad focuses. The first examines how individuals in rural, resource-dependent communities insure themselves against environmental risk. The second examines how infrastructure investment helps individuals more efficiently use resource endowments to improve their lives. 
+Hi! I am an applied microeconomist, and a PhD candidate at UC Davis. My research uses the tools of environmental, labor, and development economics to understand how individuals and communuities adapt to environmental risk and technological change. 
 
-In my job market paper, I study how environmental risk shapes rural-urban migration decisions, and show how financial constraints can severely restrict rural communities' ability to adapt to negative shocks. I also have work on the role of electrification in US rural development, price sensitivity in disaster insurance markets, and non-market valuation of water quality. 
+In my job market paper, I study how environmental shocks shape rural-urban migration decisions, and show how financial constraints can severely restrict rural communities' ability to use migration as an adaptation strategy. I also have work on the role of electrification in US rural development, price sensitivity in disaster insurance markets, and non-market valuation of water quality. 
 
-**I am on the job market in the 2026-2027 academic year.** Please click [here](https://gl-bdrx.github.io//files/GBoudreaux_CV_Aug26.pdf) to view my CV.
+**I am on the job market in the 2026-2027 academic year.** Please click [here](https://gl-bdrx.github.io//files/Boudreaux_CV_Oct26.pdf) to view my CV.
 
 
 ## Research in Progess
-* **Climate Migration and Liquidity Constraints: Evidence from the Alaska Permanent Fund Dividend (Job Market Paper)**
+* [**Climate Migration, Liquidity Constraints: Evidence from the Alaska Permanent Fund Dividend (Job Market Paper)**](https://gl-bdrx.github.io//files/GBoudreaux_JMP_1021)
 *with Matt Reimer* <br>
-  <small>**Abstract**: This paper examines how limited access to credit can constrain rural, resource-dependent communities’ ability to adapt to uninsured risk. Our setting is rural Alaska, which is highly dependent on subsistence harvesting for food security and is one of the fastest-warming areas in the world. This environmental degradation  increases the utility of rural-urban migration, while eroding the disposable income necessary to finance migration costs. This renders migration responses to environmental change highly nonlinear. To show this, we use 16 years of bilateral migration data between all 344 Alaska communities, and exploit exogenous variation in summer heat accumulation alongside variation in unearned income from the Alaska Permanent Fund Dividend, an exogenous shifter of household liquidity constraints. At low levels of unearned income,one standard deviation increase in summer heat exposure decreases rural-urban migration by 20%; this effect attenuates and reverses sign as unearned income rises. Consistent with binding liquidity constraints, effects are concentrated among costly, long-distance moves and communities in the lower half of the wage distribution. Importantly, we show that approaches which do not explicitly model the countervailing drivers of environmental migration, and how they are moderated by income, can produce misleading null results.</small> <br>
+  <small>**Abstract**: Environmental shocks can increase the incentive to migrate but decrease the liquid assets needed to move, trapping some households in place. These opposing effects can mute migration responses, especially in rural economies where liquidity constraints are likely to bind. Yet separating them empirically is difficult because environmental shocks and income are jointly determined. We overcome this challenge using administrative migration data from rural Alaska, fine-scale information on heat shocks and land degradation, and the Permanent Fund Dividend, a universal annual cash transfer whose size varies independently of local environmental conditions. We find that land degradation increases rural-urban migration, while heat shocks decrease migration when the dividend is low but
+increase it when the dividend is high. Dividend payments offset 83% of the heat-induced decline in migration, relative to no payments. This effect is concentrated in low-wage communities and costly long-distance moves, consistent with a risk-based poverty trap</small> <br>
     <small>**Conferences**: AAEA 2026, AERE@WEAI 2026, Giannini Student Conference 2026</small> <br>
     <small>**Funding**: [North Pacific Research Board](https://nprb.org/)</small> <br>
-* **Resource Extraction, Electrification, and Rural Development in the American West** <br>
+* **roundwater, Electrification, and Rural Development** <br>
   *with Katrina Jessoe and Jeff Hadachek (UW-Madison)* <br>
     <small>**Conferences**: AAEA 2026, AERE 2025 </small> <br>
     <small>**Funding**: [Giannini Foundation of Agricultural Economics](https://giannini.ucop.edu/)</small> <br>
@@ -32,4 +33,4 @@ In my job market paper, I study how environmental risk shapes rural-urban migrat
 
 ![perm](/images/perm.jpg)
 <sup>Thawing permafrost in Herschel Island, by Boris Radosavljevic (2013)</sup> <br>
-<small>In my job market paper, I examine how environmental degradation in resource-dependent communities affects rural-urban migration choices, and then use variation in the world's longest-running universal cash transfer (The Alaska Permanent Fund Dividend) to show how liquidity constraints impede this adaptive migration. </small>
+<small>In my job market paper, I examine how environmental degradation in resource-dependent communities affects rural-urban migration choices, and then use variation in the world's longest-running universal cash transfer (The Alaska Permanent Fund Dividend) to show how liquidity constraints suppress this adaptive migration. </small>
