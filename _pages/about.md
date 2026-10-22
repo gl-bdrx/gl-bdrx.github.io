@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I am an applied microeconomist, and a PhD candidate at UC Davis. My research uses the tools of environmental, labor, and development economics to understand how individuals and communuities adapt to environmental risk and technological change. 
 
-In my job market paper, I study how environmental shocks shape rural-urban migration decisions, and show how financial constraints can severely restrict rural communities' ability to use migration as an adaptation strategy. I also have work on the role of electrification in US rural development, price sensitivity in disaster insurance markets, and non-market valuation of water quality. 
+In my job market paper, I study how environmental shocks shape rural-urban migration decisions, and show how financial constraints can severely restrict rural communities' ability to use migration as an adaptation strategy. I also have work on the role of electrification in US rural development, price sensitivity in disaster insurance, and non-market valuation of water quality. 
 
 **I am on the job market in the 2026-2027 academic year.** Please click [here](https://gl-bdrx.github.io//files/Boudreaux_CV_Oct26.pdf) to view my CV.
 
