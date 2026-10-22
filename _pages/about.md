@@ -15,7 +15,7 @@ In my job market paper, I study how environmental shocks shape rural-urban migra
 
 
 ## Research in Progess
-* [**Climate Migration, Liquidity Constraints: Evidence from the Alaska Permanent Fund Dividend (Job Market Paper)**](https://gl-bdrx.github.io//files/Boudreaux_JMP_1021.pdf)
+* [**Climate Migration, Liquidity Constraints, and Trapped Populations (Job Market Paper)**](https://gl-bdrx.github.io//files/Boudreaux_JMP_1021.pdf)
 *with Matt Reimer* <br>
   <details class="abstract">
     <summary>Abstract</summary>
