@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an applied microeconomist, and a PhD candidate at UC Davis. My research uses the tools of environmental, labor, and development economics to understand how individuals and communuities adapt to environmental risk and technological change. 
+Hi! I am an applied microeconomist, and a PhD candidate at UC Davis. My research uses the tools of environmental, labor, and development economics to understand how individuals and communities adapt to environmental risk and technological change. 
 
-In my job market paper, I study how environmental shocks shape rural-urban migration decisions, and show how financial constraints can severely restrict rural communities' ability to use migration as an adaptation strategy. I also have work on the role of electrification in US rural development, price sensitivity in disaster insurance, and non-market valuation of water quality. 
+In my job market paper, I study the ``trapped populations'' hypothesis: how environmental change and liquidity constraints interact to suppress labor mobility. I also have work on the role of electrification in US rural development, price sensitivity in natural disaster insurance, and non-market valuation of water quality. 
 
-**I am on the job market in the 2026-2027 academic year.** Please click [here](https://gl-bdrx.github.io//files/Boudreaux_CV_Oct26.pdf) to view my CV.
+**I am on the job market in the 2026-2027 academic year.** Please click [here](https://gl-bdrx.github.io//files/Boudreaux_CV_Nov26.pdf) to view my CV.
 
 
 ## Research in Progess
@@ -23,13 +23,13 @@ In my job market paper, I study how environmental shocks shape rural-urban migra
   </details>
     <small>**Conferences**: AAEA 2026, AERE@WEAI 2026, Giannini Student Conference 2026</small> <br>
     <small>**Funding**: [North Pacific Research Board](https://nprb.org/)</small> <br>
+* [**The Price of Fear: Salience and Price Sensitivity in Natural Disaster Insurance**](https://gl-bdrx.github.io//files/price_of_fear.pdf) <br>
+    <small>**Conferences**: Giannini Student Conference 2025</small> <br>
+    <small>**Funding**: [UC Davis Institute of the Environment](https://environment.ucdavis.edu/)</small> <br>
 * **Groundwater, Electrification, and Rural Development** <br>
   *with Katrina Jessoe and Jeff Hadachek (UW-Madison)* <br>
     <small>**Conferences**: AAEA 2026, AERE 2025 </small> <br>
     <small>**Funding**: [Giannini Foundation of Agricultural Economics](https://giannini.ucop.edu/)</small> <br>
-* **The Price of Fear: Salience and Price Sensitivity in Natural Disaster Insurance** <br>
-    <small>**Conferences**: Giannini Student Conference 2025</small> <br>
-    <small>**Funding**: [UC Davis Institute of the Environment](https://environment.ucdavis.edu/)</small> <br>
 * **Permit Migration and the Changing Geography of Fishing-Dependent Communities** 
   *with Tsugumi Yamashita, Matt Reimer, and Jim Sanchirico* 
 
